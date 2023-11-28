@@ -1,0 +1,9 @@
+[submodule "posninja_fe-mobile"]
+	path = posninja_fe-mobile
+	url = https://github.com/Mafia-Code-Community/postninja_fe-mobile
+[submodule "posninja_be"]
+	path = posninja_be
+	url = https://github.com/Mafia-Code-Community/postninja_be
+[submodule "posninja_fe-web"]
+	path = posninja_fe-web
+	url = https://github.com/Mafia-Code-Community/postninja_fe-web
